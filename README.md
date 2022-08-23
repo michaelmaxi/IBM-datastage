@@ -9,7 +9,7 @@ DIRECTOR -> View & Log Job -> Identify errors & warnings -> Run & Reset Jobs
 
 ADMINISTRATOR -> Create Datastage Projects -> Create & Set Environment variables -> All other Admin activities
 
-**Schema Types**
+_______________________
 
 **Schema** - Collection of **Dimensions** & **Facts**.  
 
