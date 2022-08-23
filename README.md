@@ -25,3 +25,10 @@ Snowflake Schema (Fact + Dimensions + Sub-Dimension)
 
 Hybrid Schema (Start Schema + Snowflake Schema) 
 
+_______________________
+
+**Partitioning** - Dividing of records across Datastage Nodes
+
+**Partition Key-less** - Round Robin / Same / Entire / Modulus / Auto / Random
+**Parition Keyed** - Hash / Range / DB2
+
