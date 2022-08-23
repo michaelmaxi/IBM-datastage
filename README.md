@@ -33,5 +33,5 @@ _______________________
 **Parition Keyed** - Hash / Range / DB2
 _______________________
 
-Designer Palette examples practiced - Sequential file & Dataset, Copy, Filter, Sort, Remove Duplicates, Aggregate, Switch, Column Generator, Row Generator, Sample, Funnel, Head Stage, Tall Stage, Peek Stage, Transformer Stage, Join Stage, Merge Stage, Lookup Stage
+Designer Palette examples practiced - Sequential file & Dataset, Copy, Filter, Sort, Remove Duplicates, Aggregate, Switch/Case Separation, Column Generator, Row Generator, Sample, Funnel, Head Stage, Tall Stage, Peek Stage, Transformer Stage, Join Stage, Merge Stage, Lookup Stage
 
