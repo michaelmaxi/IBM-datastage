@@ -1,6 +1,7 @@
-# IBM-datastage
+# IBM DataStage
 Let's have some fun with IBM's DataStage
 
+Qualifications Certificate Click here -> [IBM DataSage](https://github.com/michaelmaxi/IBM-datastage/tree/main/DataStage%20Certificate)
 DataStage Engine -> DESIGNER / DIRECTOR / ADMINISTRATOR -> Developers
 
 DESIGNER -> DataStage Jobs -> Server / Parallel / Sequencer -> Compile & Run -> Import & Export
